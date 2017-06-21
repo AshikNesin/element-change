@@ -36,6 +36,9 @@ Type: `Function`
 
 onChangeCallback() will be called with [MutationRecord](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver) parameter.
 
+## Example
+
+![screenshot](screenshot.png)
 
 ## Inspiration
 

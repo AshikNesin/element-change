@@ -1,6 +1,6 @@
 {
   "name": "element-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect when an element is changed in DOM",
   "license": "MIT",
   "repository": "AshikNesin/element-change",
@@ -19,7 +19,13 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "dom",
+    "change",
+    "browser",
+    "element",
+    "selector",
+    "callback",
+    "mutationobserver"
   ],
   "devDependencies": {
     "xo": "^0.17.0"
