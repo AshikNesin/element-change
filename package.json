@@ -1,0 +1,30 @@
+{
+  "name": "element-change",
+  "version": "1.0.0",
+  "description": "Detect when an element is changed in DOM",
+  "license": "MIT",
+  "repository": "AshikNesin/element-change",
+  "author": {
+    "name": "Ashik Nesin",
+    "email": "mail@ashiknesin.com",
+    "url": "ashiknesin.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {
+    "xo": "^0.17.0"
+  },
+  "dependencies": {
+    "element-ready": "^2.1.0"
+  }
+}
